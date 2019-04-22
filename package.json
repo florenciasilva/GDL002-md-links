@@ -1,4 +1,15 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "md-links.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
 }
